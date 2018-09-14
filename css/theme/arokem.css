@@ -275,3 +275,10 @@ body {
     bottom: -10em;
     right: -10em;
     opacity: 0.5;}
+  
+  .container{
+      display: flex;
+  }
+  .col{
+      flex: 1;
+  }
